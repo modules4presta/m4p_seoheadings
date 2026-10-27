@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="fc7cbe7d20a9d5962a1e98f965d24dfc">
+        <source>Single H1 in content</source>
+        <target>Single H1 in content</target>
+      </trans-unit>
+      <trans-unit id="d365822ae3a5af8787aa507bfa75f876">
+        <source>Shows H1 headings typed into descriptions and pages as H2, so the page title stays the only H1.</source>
+        <target>Shows H1 headings typed into descriptions and pages as H2, so the page title stays the only H1.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

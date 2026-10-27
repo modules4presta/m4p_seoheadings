@@ -1,0 +1,17 @@
+{
+    "name": "modules4presta/m4pseoheadings",
+    "description": "Shows H1 headings typed into descriptions and pages as H2, so the page title stays the only H1.",
+    "type": "prestashop-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nice Code sp. z o.o. (Modules4Presta)",
+            "email": "contact@modules4presta.io",
+            "homepage": "https://nice-code.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "homepage": "https://nice-code.com/pl/oferta/moduly-prestashop"
+}

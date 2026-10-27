@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>m4pseoheadings</name>
+    <displayName><![CDATA[Jeden H1 w treściach]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Wyświetla nagł&oacute;wki H1 wpisane w opisy i strony jako H2, żeby tytuł strony był jedynym H1.]]></description>
+    <author><![CDATA[Modules4Presta]]></author>
+    <tab><![CDATA[seo]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>
