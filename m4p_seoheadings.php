@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /**
- * m4pseoheadings
+ * m4p_seoheadings
  *
  * @author    Modules4Presta <contact@modules4presta.io>
  * @copyright 2026 Nice Code sp. z o.o. (Modules4Presta)
@@ -18,11 +18,11 @@ if (!defined('_PS_VERSION_')) {
  * Demotes <h1> written in back-office content (product descriptions, CMS pages, category descriptions,
  * blog posts) to <h2> when it is displayed, so every page keeps a single H1: its title.
  */
-class M4pseoheadings extends Module
+class M4p_SeoHeadings extends Module
 {
     public function __construct()
     {
-        $this->name = 'm4pseoheadings';
+        $this->name = 'm4p_seoheadings';
         $this->tab = 'seo';
         $this->version = '1.0.0';
         $this->author = 'Modules4Presta';

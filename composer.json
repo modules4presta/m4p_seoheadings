@@ -1,5 +1,5 @@
 {
-    "name": "modules4presta/m4pseoheadings",
+    "name": "modules4presta/m4p_seoheadings",
     "description": "Shows H1 headings typed into descriptions and pages as H2, so the page title stays the only H1.",
     "type": "prestashop-module",
     "license": "MIT",
