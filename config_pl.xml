@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>m4pseoheadings</name>
+    <name>m4p_seoheadings</name>
     <displayName><![CDATA[Jeden H1 w treściach]]></displayName>
     <version><![CDATA[1.0.0]]></version>
     <description><![CDATA[Wyświetla nagł&oacute;wki H1 wpisane w opisy i strony jako H2, żeby tytuł strony był jedynym H1.]]></description>

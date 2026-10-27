@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>m4pseoheadings</name>
+    <name>m4p_seoheadings</name>
     <displayName><![CDATA[Single H1 in content]]></displayName>
     <version><![CDATA[1.0.0]]></version>
     <description><![CDATA[Shows H1 headings typed into descriptions and pages as H2, so the page title stays the only H1.]]></description>
